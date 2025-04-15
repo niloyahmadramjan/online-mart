@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": "499",
+    "mostPopular": false,
+    "features": [
+      "5 item limit per order",
+      "Standard delivery (48 hrs)",
+      "Basic customer support",
+      "Weekly offers only"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": "999",
+    "mostPopular": false,
+    "features": [
+      "20 item limit per order",
+      "Fast delivery (24 hrs)",
+      "Priority customer support",
+      "Weekly & monthly deals"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": "1499",
+    "mostPopular": true,
+    "features": [
+      "Unlimited items per order",
+      "Express delivery (12 hrs)",
+      "Dedicated support line",
+      "Access to flash sales"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Family Pack",
+    "price": "1999",
+    "mostPopular": false,
+    "features": [
+      "50 items per order",
+      "Custom delivery time",
+      "Support for 4 accounts",
+      "Free delivery twice a week"
+    ]
+  }
+]
